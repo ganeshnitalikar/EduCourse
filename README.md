@@ -1,16 +1,27 @@
-# project
+# Educourse Flutter Project
 
-A new Flutter project.
+Welcome to Educourse, a platform designed to help you practice your UI skills in Flutter!
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Course Details Screen
+![Course Details Screen](screenshots/course_details_screen.png)
+
+## About Educourse
+Educourse is a simple yet powerful platform where you can explore various courses and improve your skills. With a user-friendly interface and engaging content, Educourse makes learning fun and interactive.
+
+## Features
+- **Home Screen:** Browse through featured courses and discover new topics.
+- **Course Details:** Get detailed information about each course, including description, instructor details, and curriculum.
+- **User Profile:** Coming soon! Stay tuned for updates on personalized learning experiences.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project on your local machine, follow these steps:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `flutter pub get` to install dependencies.
+4. Connect your device or emulator.
+5. Run `flutter run` to start the app.
